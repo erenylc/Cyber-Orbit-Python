@@ -35,6 +35,4 @@ py main.py
 ### Kontroller
 
 - Yön tuşları veya **W / A / S / D** ile hareket.
-- Çarpışırsan **OYUN BİTTİ** ekranı gelir.
-- **R**: Yeniden başlat.
-- **ESC**: Çıkış.
+
